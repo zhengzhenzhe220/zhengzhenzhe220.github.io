@@ -4,11 +4,13 @@
 My research interests are in the intersection of economics, learning and networking.
 In particular, I have focused on game theory, machine learning and their applications for computer networking, mobile computing and online markets.
 
-== Working Papers
-. *Zhenzhe Zheng* and R. Srikant: “[https://drive.google.com/open?id=18esA_BjxMvJbEkIvbdBruU1Ji5Am0KxJ Optimal Search Segmentation Mechanisms for Online PlatformMarkets]”.
+#== Working Papers
+
 
 == Selected Publications (Complete Publications: [fullpublications.html Here])
    \* student mentored by me
+. *Zhenzhe Zheng* and R. Srikant: “[https://drive.google.com/open?id=18esA_BjxMvJbEkIvbdBruU1Ji5Am0KxJ Optimal Search Segmentation Mechanisms for Online Platform
+Markets]”, in The 15th Conference on Web and Internet Economics (+WINE+ 2019), Columbia University, New York NY, Dec. 10-12, 2019.
 . *Zhenzhe Zheng* and R. Srikant: “[papers/NecSys19.pdf A Game-Theoretic Model for Product Placement in Online Platform Markets]”, in 8th IFAC Workshop on Distributed Estimation and Control in Networked Systems (+NecSys+ 2019), Chicago, IL, USA,  Sep. 16-17, 2019. +Invited Paper+
 . Weichao Mao\*, *Zhenzhe Zheng*, and Fan Wu, “[papers/infocom1901.pdf Pricing for Revenue Maximization in IoT Data Markets: An Information Design Perspective]”, in Proceedings of the 38th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2019), Paris, France,  Apr. 29-May 2, 2019.
 . Chaoyue Niu, *Zhenzhe Zheng*, Shaojie Tang, Xiaofeng, Gao, and Fan Wu,
