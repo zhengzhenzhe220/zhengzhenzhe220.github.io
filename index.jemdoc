@@ -3,20 +3,35 @@
 
 ~~~
 {}{img_left}{photos/IMG_0897.jpg}{alt text}{150}{200}{http://zhengzhenzhe220.github.io}
-Post-Doc,\n [http://www.csl.illinois.edu/  Coordinated Science Laboratory (CSL)], \n [http://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC).]\n
-1308 W Main St, Urbana, IL 61801.\n
-Phone: \+1 217-607-4827 \n
-E-mail: /zhenzhe/ \[@\] illinois \[DOT\] edu
+Assistant Professor,\n [http://www.cs.sjtu.edu.cn/  Department of Computer Science and Engineering], \n [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University]\n
+3-501 SEIEE Building \n
+800 Dongchuan Road \n
+Shanghai 200240, P.R. China \n
+E-mail: /zhengzhenzhe/ \[@\] sjtu \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-Welcome to my homepage! I am currently a Post-Doc in the [http://www.csl.illinois.edu/  Coordinated Science Laboratory (CSL)]
-of [http://illinois.edu/ University of Illinois at Urbana-Champaign (UIUC)], advised by [https://sites.google.com/a/illinois.edu/srikant/ Prof. R. Srikant].
-I received my PhD degree from the [http://www.cs.sjtu.edu.cn/index.aspx Department of Computer Science and Engineering] at [https://www.sjtu.edu.cn/ Shanghai Jiao University] in March, 2018 and was advised by [http://www.cs.sjtu.edu.cn/~fwu/ Prof. Fan Wu] and [https://scholar.google.com/citations?user=rqZWbYgAAAAJ&hl=en Prof. Guihai Chen].
+Welcome to my homepage! I am currently a tenure-track assistant professor in the [http://www.cs.sjtu.edu.cn/  Department of Computer Science and Engineering]
+@ [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University].
+
+I received my Ph.D. from the [http://www.cs.sjtu.edu.cn/ CS] department @ [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University] in March 2018.
+My advisors were Prof. [http://www.cs.sjtu.edu.cn/~fwu/ Prof. Fan Wu] and [https://scholar.google.com/citations?user=rqZWbYgAAAAJ&hl=en Prof. Guihai Chen].
+I was then a postdoctoral researcher in the [https://www.csl.illinois.edu/ Coordinated Science Laboratory (CSL)] @ [https://illinois.edu/ UIUC] from April 2018 to October 2019,
+advised by Prof. [https://sites.google.com/a/illinois.edu/srikant/ R. Srikant].
+I was a visiting student working with Prof. [https://sites.google.com/a/illinois.edu/srikant/ R. Srikant] in
+the [https://www.csl.illinois.edu/ Coordinated Science Laboratory (CSL)] @ [https://illinois.edu/ UIUC] from September 2016 to March 2018.
+I am also a [http://ai.googleblog.com/2015/08/announcing-googles-2015-global-phd.html Google Ph.D. Fellow] and a [https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/ Microsoft Research Asia Fellow], in 2015.
+Prior to my Ph.D., I received my B.E. in Software Engineering from [https://www.xidian.edu.cn/ Xidian University] in June 2012, and M.S. in Computer Science from [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University] in March 2015.
+
 My research interests are in the intersection of economics, learning and networking. In particular, I have focused on game theory, machine learning and their applications for computer networking, mobile computing and online markets.
 
+~~~
+Students: I am constantly looking for well motivated students (both undergrad and graduate) who are interested in
+game theory, machine learning and reinforcement learning, networking and mobile computing, performance analysis and algorithm design, and system implementations.
+Please email me if you are interested.
+~~~
+
 == Research Interests
-- Game Theory
-- Network Economics
+- Game Theory and Network Economics
 - Computer Networking and Mobile Computing
-- Machine Learning
+- Machine Learning and Reinforcement Learning

@@ -13,15 +13,24 @@ Here is a full list of my publications. \n
 . *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, and Guihai Chen, “[papers/ton16.pdf AEGIS: An Unknown Combinatorial Auction Mechanism Framework for Heterogeneous Spectrum Redistribution in Non-Cooperative Wireless Networks]",  IEEE/ACM Transactions on Networking (+TON+), Volume 24, Number 3, Pages 1919-1932, June 2016.
 . *Zhenzhe Zheng*, Yang Gui, Fan Wu, and Guihai Chen, "[papers/tc15.pdf STAR: Strategy-Proof Double Auctions for Multi-Cloud, Multi-Tenant Bandwidth Reservation]", IEEE Transactions on Computers (+TC+), Volume 64, Number 7, Pages 2071 - 2083, July 2015.
 . *Zhenzhe Zheng*, Fan Wu, and Guihai Chen, “[papers/tmc15.pdf A Strategy-Proof Combinatorial Heterogeneous Channel Auction Framework in Noncooperative Wireless Networks]", IEEE Transactions on Mobile Computing (+TMC+), Volume 14, Number 6, Pages 1123-1137, June 2015.
-. Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Xiaofeng Gao, and Guihai Chen, “[papers/tkde19.pdf Achieving Data Truthfulness and Privacy Preservation in Data Markets]", to appear in Transactions on Knowledge and Data Engineering (+TKDE+), 2019.
+. Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Xiaofeng Gao, and Guihai Chen, “[papers/tkde19.pdf Achieving Data Truthfulness and Privacy Preservation in Data Markets]",  Transactions on Knowledge and Data Engineering (+TKDE+), Volume 31, Number 1, Pages 105 - 119, Jan. 2019.
+. Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen, “[papers/tkde1901.pdf ERATO: Trading Noisy Aggregate Statistics over Private Correlated Data]", to appear in Transactions on Knowledge and Data Engineering (+TKDE+), 2019, DOI: 10.1109/TKDE.2019.2934100.
 
 == Conference Papers
+
+. Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, and Guihai Chen: “[papers/icde20.pdf Online Pricing with Reserve Price Constraint for Personal Data Markets]”,
+in Proceedings of the 36th IEEE International Conference on Data Engineering, (IEEE +ICDE+ 2020), short paper, Dallas, Texas, USA, April 20-24, 2020.
+. Hongtao Lv\*, Chaoli Zhang, *Zhenzhe Zheng*, Tie Luo, Fan Wu and Guihai Chen:  “[papers/aaai20.pdf Mechanism Design with Predicted Task Revenue for Bike Sharing Systems]”,
+in Proceedings of the 34th AAAI Conference on Artificial Intelligence (+AAAI+), New York NY, Feb. 7-12, 2020.
 . *Zhenzhe Zheng* and R. Srikant: “[https://drive.google.com/open?id=18esA_BjxMvJbEkIvbdBruU1Ji5Am0KxJ Optimal Search Segmentation Mechanisms for Online Platform
 Markets]”, in Proceedings of the 15th Conference on Web and Internet Economics (+WINE+ 2019), Columbia University, New York NY, Dec. 10-12, 2019.
 . *Zhenzhe Zheng* and R. Srikant: “[papers/NecSys19.pdf A Game-Theoretic Model for Product Placement in Online Platform Markets]”, in the 8th IFAC Workshop on Distributed Estimation and Control in Networked Systems (+NecSys+ 2019), Chicago, IL, USA,  Sep. 16-17, 2019. +Invited Paper+
 . Weichao Mao\*, *Zhenzhe Zheng*, and Fan Wu, “[papers/infocom1901.pdf Pricing for Revenue Maximization in IoT Data Markets: An Information Design Perspective]”, in Proceedings of the 38th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2019), Paris, France,  Apr. 29-May 2, 2019.
 . Chaoyue Niu, *Zhenzhe Zheng*, Shaojie Tang, Xiaofeng, Gao, and Fan Wu,
 “[papers/infocom1902.pdf Making Big Money from Small Sensors: Trading Time-Series Data under Pufferfish Privacy]”, in Proceedings of the 38th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2019), Paris, France,  Apr. 29-May 2, 2019.
+. *Zhenzhe Zheng*, Weichao Mao\*, Fan Wu, and Guihai Chen “[papers/socialsense19.pdf Challenges and Opportunities in IoT Data
+Markets]”, in the 4th International Workshop on Social Sensing (IEEE *SocialSense* 2019), Montreal,
+Canada, Apr. 15, 2019. (*Invited Paper*).
 . *Zhenzhe Zheng*, R. Srikant, and Guihai Chen, “[papers/infocom18.pdf Pricing for Revenue Maximization in Inter-DataCenter Networks]”, in Proceedings of the 37th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2018), Honolulu, HI, USA,  Apr 16-19, 2018.
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen,
 "[papers/kdd18.pdf Unlocking the Value of Privacy: Trading Aggregate Statistics over Private Correlated Data]", in Proceedings of the 2018 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2018), London, UK, Aug. 19-23, 2018.
