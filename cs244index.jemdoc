@@ -7,8 +7,7 @@
 
 *Website*: https://zhengzhenzhe220.github.io/cs244index.html
 
-*Course Meeting Times*: 2 sessions / week, 1.5 hours / session
-12:55-15:40 Friday in Room 407 East Upper Hall (东上院 407).
+*Course Meeting Times*: 12:55-15:40 Friday in Room 407 East Upper Hall (东上院 407).
 
 *Prerequisites*: Basic knowledge of optimization, probability and linear systems or consent of instructor.
 
@@ -29,28 +28,28 @@ The course is geared towards computer science, engineering, or operations resear
 
 == Tentative Schedule (as time permits):
 
-1.	Introduction to game theory (1 lecture):\\
-  Games and solutions. Game theory and mechanism design. Examples from computer science.
+1.	Introduction to game theory (1 lecture):
+  - Games and solutions. Game theory and mechanism design. Examples from computer science.
 
-2.	Strategic form games complete information (4-5 lectures):\\
-Equilibrium Concepts: Dominant and Dominated Strategies. Nash Equilibrium: existence and uniqueness. Mixed and correlated equilibrium.
-Game Models: Zero-sum matrix games. Continuous games. Supermodular games. Potential/congestion games.
-Mathematical Tools: MiniMax Theorem. LP Duality. Saddle-Point
+2.	Strategic form games complete information (4-5 lectures):
+ - Equilibrium Concepts: Dominant and Dominated Strategies. Nash Equilibrium: existence and uniqueness. Mixed and correlated equilibrium.
+ - Game Models: Zero-sum matrix games. Continuous games. Supermodular games. Potential/congestion games.
+ - Mathematical Tools: MiniMax Theorem. LP Duality. Saddle-Point
 
-3.	Learning, evolution, and computation (3 lectures): \\
-Myopic learning; fictitious play. Bayesian learning. Evolutionarily stable strategies. Computation of Nash equilibrium in matrix games.
+3.	Learning, evolution, and computation (3 lectures):
+- Myopic learning; fictitious play. Bayesian learning. Evolutionarily stable strategies. Computation of Nash equilibrium in matrix games.
 
-4.	Extensive games with complete information (2 lectures):\\
- Backward induction and subgame perfect equilibrium. Applications in bargaining games. Nash bargaining solution.
+4.	Extensive games with complete information (2 lectures):
+ - Backward induction and subgame perfect equilibrium. Applications in bargaining games. Nash bargaining solution.
 
-5.	Repeated games (3 Lectures):\\
- Infinitely/finitely repeated games. Trigger strategies. Folk theorems. Imperfect monitoring and perfect public equilibrium.
+5.	Repeated games (3 Lectures):
+ - Infinitely/finitely repeated games. Trigger strategies. Folk theorems. Imperfect monitoring and perfect public equilibrium.
 
-6.	Games with incomplete information (2-3 lectures):\\
- Mixed and behavioral strategies. Bayesian Nash equilibrium. Applications in auctions. Different auction formats. Revenue and efficiency properties of different auctions.
+6.	Games with incomplete information (2-3 lectures):
+ - Mixed and behavioral strategies. Bayesian Nash equilibrium. Applications in auctions. Different auction formats. Revenue and efficiency properties of different auctions.
 
-7.	Mechanism design (3-4 lectures):\\
- Optimal auctions; revenue-equivalence theorem. Social choice viewpoint. Impossibility results. Revelation principle. Incentive compatibility. VCG mechanisms. Mechanisms in networking, decentralized mechanisms.
+7.	Mechanism design (3-4 lectures):
+ - Optimal auctions; revenue-equivalence theorem. Social choice viewpoint. Impossibility results. Revelation principle. Incentive compatibility. VCG mechanisms. Mechanisms in networking, decentralized mechanisms.
 
-8.	Cooperative game and applications in CS (2-3 lectures):\\
- Positive and negative externalities. Utility-based resource allocation. Selfish routing. Wardrop and Nash equilibrium. Partially optimal routing. Network pricing. Competition and implications on network performance. Strategic network formation.
+8.	Cooperative game and applications in CS (2-3 lectures):
+ - Positive and negative externalities. Utility-based resource allocation. Selfish routing. Wardrop and Nash equilibrium. Partially optimal routing. Network pricing. Competition and implications on network performance. Strategic network formation.
