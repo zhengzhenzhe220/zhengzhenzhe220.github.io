@@ -1,53 +1,56 @@
 # jemdoc: menu{MENU_course}{cs244index.html}, nofooter
-==Basic Information
-Instructor: Prof. Zhenzhe Zheng, zhengzhenzhed@sjtu.edu.cn
+==CS244 Game Theory with Computer Science Applications
 
-Prof. Zheng’s Office Hours: 3:00-4:00 Tue, 3-501 SEIEE.
+*Instructor*: Prof. Zhenzhe Zheng, zhengzhenzhed@sjtu.edu.cn
 
-Website: https://zhengzhenzhe220.github.io/cs244index.html
+*Office Hours*: 3:00-4:00 Tue, 3-501 SEIEE.
 
-Course Meeting Times: 2 sessions / week, 1.5 hours / session
-12:55-15:40 Friday in Room 407 East Upper Hall (东上院 407)
+*Website*: https://zhengzhenzhe220.github.io/cs244index.html
 
-Prerequisites: Basic knowledge of optimization, probability and linear systems or consent of instructor.
+*Course Meeting Times*: 2 sessions / week, 1.5 hours / session
+12:55-15:40 Friday in Room 407 East Upper Hall (东上院 407).
 
-Credit: 3
+*Prerequisites*: Basic knowledge of optimization, probability and linear systems or consent of instructor.
+
+*Credit*: 3
 
 == Description
 This course is an introduction to the fundamentals of game theory and mechanism design. Motivations and applications are drawn from computer science, such as wireline and wireless communication networks, multi-agent systems, machine learning models, online platform markets and computational advertising. The course emphasizes theoretical foundations, mathematical tools and modeling in different environments.
 
 == Intended Audience
-
 The course is geared towards computer science, engineering, or operations research students who need to use game theory in their research. The course is also aimed at covering recent advances and open research topics in game theory and the applications from computer science.
 
 
 == Grading
-
-Homework: 30\%
-
-Midterm: 20\%
-
-Final: 20\%
-
-Project: 30\%
+- Homework: 30\%
+- Midterm: 20\%
+- Final: 20\%
+- Project: 30\%
 
 == Tentative Schedule (as time permits):
 
-1.	Introduction to game theory (1 lecture): Games and solutions. Game theory and mechanism design. Examples from computer science.
+1.	Introduction to game theory (1 lecture):\\
+  Games and solutions. Game theory and mechanism design. Examples from computer science.
 
-2.	Strategic form games complete information (4-5 lectures):
+2.	Strategic form games complete information (4-5 lectures):\\
 Equilibrium Concepts: Dominant and Dominated Strategies. Nash Equilibrium: existence and uniqueness. Mixed and correlated equilibrium.
 Game Models: Zero-sum matrix games. Continuous games. Supermodular games. Potential/congestion games.
 Mathematical Tools: MiniMax Theorem. LP Duality. Saddle-Point
 
-3.	Learning, evolution, and computation (3 lectures): Myopic learning; fictitious play. Bayesian learning. Evolutionarily stable strategies. Computation of Nash equilibrium in matrix games.
+3.	Learning, evolution, and computation (3 lectures): \\
+Myopic learning; fictitious play. Bayesian learning. Evolutionarily stable strategies. Computation of Nash equilibrium in matrix games.
 
-4.	Extensive games with complete information (2 lectures): Backward induction and subgame perfect equilibrium. Applications in bargaining games. Nash bargaining solution.
+4.	Extensive games with complete information (2 lectures):\\
+ Backward induction and subgame perfect equilibrium. Applications in bargaining games. Nash bargaining solution.
 
-5.	Repeated games (3 Lectures): Infinitely/finitely repeated games. Trigger strategies. Folk theorems. Imperfect monitoring and perfect public equilibrium.
+5.	Repeated games (3 Lectures):\\
+ Infinitely/finitely repeated games. Trigger strategies. Folk theorems. Imperfect monitoring and perfect public equilibrium.
 
-6.	Games with incomplete information (2-3 lectures): Mixed and behavioral strategies. Bayesian Nash equilibrium. Applications in auctions. Different auction formats. Revenue and efficiency properties of different auctions.
+6.	Games with incomplete information (2-3 lectures):\\
+ Mixed and behavioral strategies. Bayesian Nash equilibrium. Applications in auctions. Different auction formats. Revenue and efficiency properties of different auctions.
 
-7.	Mechanism design (3-4 lectures): Optimal auctions; revenue-equivalence theorem. Social choice viewpoint. Impossibility results. Revelation principle. Incentive compatibility. VCG mechanisms. Mechanisms in networking, decentralized mechanisms.
+7.	Mechanism design (3-4 lectures):\\
+ Optimal auctions; revenue-equivalence theorem. Social choice viewpoint. Impossibility results. Revelation principle. Incentive compatibility. VCG mechanisms. Mechanisms in networking, decentralized mechanisms.
 
-8.	Cooperative game and applications in CS (2-3 lectures): Positive and negative externalities. Utility-based resource allocation. Selfish routing. Wardrop and Nash equilibrium. Partially optimal routing. Network pricing. Competition and implications on network performance. Strategic network formation.
+8.	Cooperative game and applications in CS (2-3 lectures):\\
+ Positive and negative externalities. Utility-based resource allocation. Selfish routing. Wardrop and Nash equilibrium. Partially optimal routing. Network pricing. Competition and implications on network performance. Strategic network formation.
