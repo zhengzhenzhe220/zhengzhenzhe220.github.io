@@ -1,24 +1,26 @@
 # jemdoc: menu{MENU_course}{reference.html}, nofooter
 ==References
 
-- [MO] I. Menache and A. Ozdaglar. Network Games: Theory, Models and Dynamics, Morgan & Claypool, March 2011.
+- \[RS\] R. Srikant's notes on Game Theory, UIUC.
 
-- [TR] T. Roughgarden. Lecture Notes on Algorithmic Game Theory, Stanford.
+- \[MO\] I. Menache and A. Ozdaglar. Network Games: Theory, Models and Dynamics, Morgan & Claypool, March 2011.
 
-- [BH] B. Hajek. An Introduction to Game Theory, UIUC.
+- \[TR\] T. Roughgarden. Lecture Notes on Algorithmic Game Theory, Stanford.
 
-- [NR] N. Nisan, T. Roughgarden, E. Tardos and V. Vazirani (Eds.), Algorithmic Game Theory, Cambridge University Press, 2007.
+- \[BH\] B. Hajek. An Introduction to Game Theory, UIUC.
 
-- [RM] R. Myerson, Game Theory: Analysis of Conflict, Harvard University Press, 1991.
+- \[NR\] N. Nisan, T. Roughgarden, E. Tardos and V. Vazirani (Eds.), Algorithmic Game Theory, Cambridge University Press, 2007.
 
-- [OR] M. J. Osbone and A. Rubinstein, A Course in Game Theory, MIT Press, 1994.
+- \[RM\] R. Myerson, Game Theory: Analysis of Conflict, Harvard University Press, 1991.
 
-- [VK] V. Krishna, Auction Theory, Associated Press, 2002.
+- \[OR\] M. J. Osbone and A. Rubinstein, A Course in Game Theory, MIT Press, 1994.
 
-- [GO] G. Owen, Game Theory, 3rd edition, Academic Press, 2001.
+- \[VK\] V. Krishna, Auction Theory, Associated Press, 2002.
 
-- [JH] J. Hespanha. Lecture Notes on An Introductory Course in Noncooperative Game Theory, UCSB.
+- \[GO\] G. Owen, Game Theory, 3rd edition, Academic Press, 2001.
 
-- [YM] Yishay Mansour's notes on Computational Game Theory, Tel Aviv University.
+- \[JH\] J. Hespanha. Lecture Notes on An Introductory Course in Noncooperative Game Theory, UCSB.
 
-- [RK] Robert Kleinberg's notes on Learning, Games and Electronic Markets
+- \[YM\] Yishay Mansour's notes on Computational Game Theory, Tel Aviv University.
+
+- \[RK\] Robert Kleinberg's notes on Learning, Games and Electronic Markets
