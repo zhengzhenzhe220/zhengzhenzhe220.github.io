@@ -6,6 +6,7 @@ Here is a full list of my publications. \n
 \* student mentored by me.
 
 == Journal Papers
+. *Zhenzhe Zheng*, Shuo Yang, Jiapeng Xie, Fan Wu, Xiaofeng Gao, and Guihai Chen, "[On Designing Strategy-Proof Budget Feasible Online Mechanism for Mobile Crowdsensing with Time-Discounting Value]", to appear in IEEE Transactions on Mobile Computing (+TMC+).
 . Fan Wu,  Shuo Yang, *Zhenzhe Zheng*, Shaojie Tang, and Guihai Chen, "[Fine Grained User Profiling for Personalized Task Matching in Mobile Crowdsensing]", to appear in IEEE Transactions on Mobile Computing (+TMC+). DOI: 10.1109/TMC.2020.2993963.
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, and Guihai Chen, “[Online Pricing with Reserve Price Constraint for Personal Data Markets]", to appear in  IEEE Transactions on Knowledge and Data Engineering (+TKDE+).
 . *Zhenzhe Zheng*, Yanqing Peng\*, Fan Wu, Shaojie Tang, and Guihai Chen, “[papers/tmc19.pdf ARETE: On Designing Joint Online Pricing and Reward Sharing Mechanisms for Mobile Data Markets]”, to appear in IEEE Transactions on Mobile Computing (+TMC+), Feb.  2019.
@@ -18,6 +19,7 @@ Here is a full list of my publications. \n
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen, “[papers/tkde1901.pdf ERATO: Trading Noisy Aggregate Statistics over Private Correlated Data]", to appear in Transactions on Knowledge and Data Engineering (+TKDE+), 2019, DOI: 10.1109/TKDE.2019.2934100.
 
 == Conference Papers
+. Zhilin Zhang, Xiangyu Liu, *Zhenzhe Zheng*, Chenrui Zhang, Miao Xu, Junwei Pan, Chuan Yu, Fan Wu, Jian Xu and Kun Gai: “[Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising]”, in Proceedings of the 14th ACM International Web Search and Data Mining conference (+WSDM+ 2021), March, Jerusalem, Israel 2021.
 . Liyi Guo\*, Rui Lu, Haoqi Zhang, Junqi Jin, *Zhenzhe Zheng*, Fan Wu, Jin Li, Haiyang Xu, Han Li, Wenkai Lu, Jian Xu, and Kun Gai, “[A Deep Prediction Network for Understanding Advertiser Intent and Satisfaction]”, in Proceedings of the 29th ACM International Conference on Information and Knowledge Management (+CIKM+ 2020), 19-23 October 2020.
 . Xiaotian Hao,  Zhaoqing Peng, Yi Ma,  Guan Wang,  Junqi Jin,  Jianye Hao,  Shan Chen, Rongquan Bai,  Mingzhou Xie,  Miao Xu, *Zhenzhe Zheng*,  Chuan Yu, Han Li , Jian Xu , Kun Gai, "[ Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising]",  in Proceedings of the Thirty-seventh International Conference on Machine Learning, (+ICML+ 2020), Vienna, Austria, July 13-18, 2020.
 . Xiaotian Hao, Junqi Jin, Jin Li , Weixun Wang, Yi Ma, Jianye Hao, *Zhenzhe Zheng*, Han Li, Jian Xu, and Kun Gai, “[ Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising]”, in Proceedings of the 2020 International Joint Conference on Artificial Intelligence, (+IJCAI+ 2020), Yokohama, Japan, July 11-17, 2020.
@@ -25,7 +27,7 @@ Here is a full list of my publications. \n
 in Proceedings of the 36th IEEE International Conference on Data Engineering, (IEEE +ICDE+ 2020), short paper, Dallas, Texas, USA, April 20-24, 2020.
 . Hongtao Lv\*, Chaoli Zhang, *Zhenzhe Zheng*, Tie Luo, Fan Wu and Guihai Chen:  “[papers/aaai20.pdf Mechanism Design with Predicted Task Revenue for Bike Sharing Systems]”,
 in Proceedings of the 34th AAAI Conference on Artificial Intelligence (+AAAI+), New York NY, Feb. 7-12, 2020.
-. Qinya Li\*, *Zhenzhe Zheng*, Fan Wu and Guihai Chen:  "[Generative Adversarial Networks-based Privacy-Preserving for 3D Reconstruction]", in Proceedings of IEEE/ACM International Symposium on Quality of Service (+IWQoS+), 15-17 June 2020. 
+. Qinya Li\*, *Zhenzhe Zheng*, Fan Wu and Guihai Chen:  "[Generative Adversarial Networks-based Privacy-Preserving for 3D Reconstruction]", in Proceedings of IEEE/ACM International Symposium on Quality of Service (+IWQoS+), 15-17 June 2020.
 . *Zhenzhe Zheng* and R. Srikant: “[https://drive.google.com/open?id=18esA_BjxMvJbEkIvbdBruU1Ji5Am0KxJ Optimal Search Segmentation Mechanisms for Online Platform
 Markets]”, in Proceedings of the 15th Conference on Web and Internet Economics (+WINE+ 2019), Columbia University, New York NY, Dec. 10-12, 2019.
 . *Zhenzhe Zheng* and R. Srikant: “[papers/NecSys19.pdf A Game-Theoretic Model for Product Placement in Online Platform Markets]”, in the 8th IFAC Workshop on Distributed Estimation and Control in Networked Systems (+NecSys+ 2019), Chicago, IL, USA,  Sep. 16-17, 2019. +Invited Paper+
