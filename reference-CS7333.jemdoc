@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU_course}{reference-CS7333.html}, nofooter
+==References
+
+- Textbook: R. Srikant and L. Ying, Communication Networks: An Optimization, Control and Stochastic Networks Perspective, Cambridge University Press, 2014
+
+ Website for the Textbook:  https://sites.google.com/view/comm-networks
+
+*Additional references*:
+
+1. [ D. P. Bertsekas and R. G. Gallager. Data Networks. Prentice Hall.]
+
+2. [https://hajek.ece.illinois.edu/ECE567Notes.html B. Hajek. Communication Network Analysis]
+
+3. [http://www.statslab.cam.ac.uk/~frank/STOCHNET/LNSN_corr/book.pdf F.P. Kelly and E. Yudovina. Lectures on Stochastic Networks]
+
+4. [https://www.morganclaypool.com/doi/10.2200/S00804ED2V01Y201709CNT020 J. Walrand and S. Parekh. Communication Networks: A Concise Introduction]

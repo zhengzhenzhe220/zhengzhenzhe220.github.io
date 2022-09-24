@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU_course}{cs244index.html}, nofooter
+==CS7333 Communication Network Analysis and System
+
+*Instructor*: Prof. [index.html Zhenzhe Zheng], zhengzhenzhe@sjtu.edu.cn
+
+*Office Hours*: 3:00-4:00 Tue, 3-509 SEIEE.
+
+*Website*: https://zhengzhenzhe220.github.io/CS7333index.html
+
+*Course Meeting Times*: 18:00-20:20 Monday (Weeks 1-16) (陈瑞球楼 430).
+
+*Prerequisites*: Basic knowledge of optimization, probability and linear systems or consent of instructor.
+
+*Credit*: 3
+
+== Description
+Performance analysis and design of multiple-user communication systems; emphasis on rigorous formulation and analytical and computational methods; includes queuing networks, decentralized minimum delay routing, and dynamic network flow control.
+
+== Intended Audience
+The course is geared towards computer science students who would like to have an in-depth understanding of modern communication networks for computer and computing, know more about fundamental issues, engineering tradeoffs.
+
+== Grading
+
+
+== Topics (as time permits):
+
+*Analysis Part:*
+
+- End-to-end network architecture: Optimization formulation of network resource allocation; convergence analysis of primal and dual algorithms; Delay differential equations and applications to the study of congestion control algorithm; Interpretation of network architecture and algorithms in terms of optimization solution; Game-theoretic interpretation of optimization formulation and solution
+
+- Mathematical tools: Markov chains and discrete-time queueing theory
+
+- What happens at a link? Statistical multiplexing and large deviations
+
+- Scheduling algorithms for switches and wireless networks: Maxweight scheduling, complexity, and distributed randomized algorithms, statistical physics techniques
+
+- Mathematical tools: Continuous-time queueing theory; applications to connection-level models of the Internet; loss networks, heavy-traffic analysis
+
+
+*System Part*
+
+- P2P Overlay Networks
+
+- Cloud Computing and Data Center Networks
+
+- Wireless Sensor Networks
+
+- On-Device Intelligence
