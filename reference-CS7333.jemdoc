@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU_course}{reference-CS7333.html}, nofooter
+# jemdoc: menu{MENU_course-CS7333}{reference-CS7333.html}, nofooter
 ==References
 
 - Textbook: R. Srikant and L. Ying, Communication Networks: An Optimization, Control and Stochastic Networks Perspective, Cambridge University Press, 2014
