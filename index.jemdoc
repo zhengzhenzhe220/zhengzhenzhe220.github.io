@@ -23,7 +23,7 @@ advised by Prof. [https://sites.google.com/a/illinois.edu/srikant/ R. Srikant].
 I am the recipient of the [https://www.ccf.org.cn/Awards/Awards_Recipients/2018/Doctoral_Dissertation/  China Computer Federation (CCF) Excellent Doctoral Dissertation Award] in 2018. During my Ph.D. program, I was supported by [http://ai.googleblog.com/2015/08/announcing-googles-2015-global-phd.html Google Ph.D. Fellowship] and [https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/ Microsoft Research Asia Ph.D. Fellowship].
 Prior to my Ph.D., I received my B.E. in Software Engineering from [https://www.xidian.edu.cn/ Xidian University] in June 2012, and M.S. in Computer Science from [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University] in March 2015.
 
-My research interests are in the intersection of economics, learning and networking. In particular, I have focused on game theory, machine learning and their applications for computer networking, mobile computing and online markets.
+My research interests are in the intersection of economics, learning and networking. In particular, I have focused on game theory, machine learning and their applications for computer networking, mobile computing and online platform markets.
 
 ~~~
 Students: I am constantly looking for well motivated students (both undergrad and graduate) who are interested in
@@ -34,6 +34,8 @@ Please email me if you are interested.
 
 ~~~
 == Recent News
+- \[2023.08\] We have five papers accepted to ACM CIKM 2023. Congratulations to the group.
+- \[2023.06\] One Paper "[ Learning From Your Neighbours: Mobility-Driven Device-Edge-Cloud Federated Learning]" has been accepted to ACM ICPP 2023. Congratulations to Songli.
 - \[2023.05\] One Paper "[ A Personalized Automated Bidding Framework for Fairness-aware Online Advertising]" has been accepted to ACM SIGKDD 2023. Congratulations to Haoqi.
 - \[2023.04\] One Paper "[ Truthful Auctions for Automated Bidding in Online Advertising]" has been accepted to IJCAI 2023. Congratulations to Yidan.
 - \[2023.04\] One Paper "[ Distributed Model Interpretation for Vertical Federated Learning with Feature Discrepancy]" has been accepted to IEEE/ACM IWQoS 2023. Congratulations to Rui.
@@ -68,6 +70,5 @@ Congratulations to Yiqing!
 # \[2019.12\] Paper "[https://drive.google.com/open?id=18esA_BjxMvJbEkIvbdBruU1Ji5Am0KxJ Optimal Search Segmentation Mechanisms for Online Platform Markets]" accepted to WINE 2019.
 
 == Research Interests
-- Game Theory and Network Economics
-- Computer Networking, Mobile Computing and Online Advertising
-- Federated Learning and Reinforcement Learning
+- Mobile Computing and On-device Machine Learning
+- Network Economics and Online Advertising
