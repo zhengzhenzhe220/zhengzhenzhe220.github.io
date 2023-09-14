@@ -6,6 +6,7 @@ Here is a full list of my publications. \n
 \* student mentored by me; \  \# Corresponding Author
 
 == Journal Papers
+. Anran Xu\*, *Zhenzhe Zheng*\#, Qinya Li, Fan Wu, and Guihai Chen, "[ VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2023.
 . Qinya Li\*, Zun Li, *Zhenzhe Zheng*\#, Fan Wu, Shaojie Tang, Zhao Zhang and Guihai Chen, "[papers/tmc21.pdf Capitalize Your Data: Optimal Selling Mechanisms for IoT Data Exchange]", to appear in IEEE Transactions on Mobile Computing (+TMC+). DOI: 10.1109/TMC.2021.3113387, 2021.
 . Hongtao Lv\*, *Zhenzhe Zheng*\#, Fan Wu, and Guihai Chen, "[papers/JSAC21.pdf Strategy-Proof Online Mechanisms for Weighted AoI Minimization in Edge Computing]", in IEEE Journal on Selected Areas in Communications (+JSAC+), Special Issue on Age of Information in Real-time Systems and Networks, Volume 39, Issue 5, May 2021.
 . *Zhenzhe Zheng*, Shuo Yang, Jiapeng Xie, Fan Wu, Xiaofeng Gao, and Guihai Chen, "[papers/tmc20-2.pdf On Designing Strategy-Proof Budget Feasible Online Mechanism for Mobile Crowdsensing with Time-Discounting Value]", IEEE Transactions on Mobile Computing (+TMC+), Volume 21, Issue 6, Pages 2088-2102, 2022.
@@ -21,6 +22,18 @@ Here is a full list of my publications. \n
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen, “[papers/tkde1901.pdf ERATO: Trading Noisy Aggregate Statistics over Private Correlated Data]", Transactions on Knowledge and Data Engineering (+TKDE+), Volume 33, Number 3, Pages 975 - 990, 2021.
 
 == Conference Papers
+
+. Hongtao Lv\*, Xiaohui Bei, *Zhenzhe Zheng*\#, and Fan Wu, "[ Auction Design for Bidders with Ex Post ROI Constraints]" in Proceedings of the 19th Conference on Web and Internet Economics (+WINE+ 2023), Shanghai, China, Dec. 04-08, 2023.
+
+. Ruitao Zhu\*, Wendong Xiao, Yao Yu, Yizhi Yu, *Zhenzhe Zheng*\#, Ke Bu, Dong Li and Fan Wu, "[ CANDY: A Causality-Driven Model for Hotel Dynamic Pricing]" in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (+CIKM+ 2023), Birmingham, UK, Oct. 21-25, 2023.
+
+. Shigang Quan\*, Hailong Tan, Shui Liu, *Zhenzhe Zheng*\#, Ruihao Zhu, Liangyue Li, Quan Lu and Fan Wu, "[ MERIT: A Merchant Incentive Ranking Model for Hotel Search & Ranking]" in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (+CIKM+ 2023), Birmingham, UK, Oct. 21-25, 2023.
+
+. Shigang Quan\*, Shui Liu, *Zhenzhe Zheng*\# and Fan Wu, "[ Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective]" in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (+CIKM+ 2023), Birmingham, UK, Oct. 21-25, 2023.
+
+. Xinwei Wan\*, Jiankai Sun, Shengjie Wang, Lei Chen, *Zhenzhe Zheng*\#, Fan Wu and Guihai Chen, "[ PSLF: Defending Against Label Leakage in Split Learning]" in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (+CIKM+ 2023), Birmingham, UK, Oct. 21-25, 2023.
+
+. Zhen Gong\*, Lvyin Niu, Yang Zhao, Miao Xu, *Zhenzhe Zheng*\#, Haoqi Zhang, Zhilin Zhang, Fan Wu, Rongquan Bai, Chuan Yu, Jian Xu and Bo Zheng, "[ MEBS: Multi-task End-to-end Bid Shading for Multi-slot Display Advertising]" in Proceedings of 32nd ACM International Conference on Information and Knowledge Management (+CIKM+ 2023), Birmingham, UK, Oct. 21-25, 2023.
 
 . Zhen Gong\*, Xin Wu, Lei Chen, *Zhenzhe Zheng*\#, Shengjie Wang, Anran Xu, Chong Wang and Fan Wu, "[ Full Index Deep Retrieval: End-to-End User and Item Structures for Cold-start and Long-tail Item Recommendation]" in Proceedings of the 17th ACM Recommender Systems Conference (+RecSys+ 23), Singapore, Sept. 18 - Sept 22, 2023.
 
