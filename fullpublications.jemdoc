@@ -6,6 +6,8 @@ Here is a full list of my publications. \n
 \* student mentored by me; \  \# Corresponding Author
 
 == Journal Papers
+. Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Yunfeng Shao, Bingshuai Li and Guihai Chen, "[ ODE: An Online Data Selection Framework for Federated Learning in Mobile Networks]", to appear in IEEE/ACM Transactions on Networking (+TON+), 2024.
+
 . Anran Xu\*, *Zhenzhe Zheng*\#, Qinya Li, Fan Wu, and Guihai Chen, "[ VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2023.
 . Qinya Li\*, Zun Li, *Zhenzhe Zheng*\#, Fan Wu, Shaojie Tang, Zhao Zhang and Guihai Chen, "[papers/tmc21.pdf Capitalize Your Data: Optimal Selling Mechanisms for IoT Data Exchange]", to appear in IEEE Transactions on Mobile Computing (+TMC+). DOI: 10.1109/TMC.2021.3113387, 2021.
 . Hongtao Lv\*, *Zhenzhe Zheng*\#, Fan Wu, and Guihai Chen, "[papers/JSAC21.pdf Strategy-Proof Online Mechanisms for Weighted AoI Minimization in Edge Computing]", in IEEE Journal on Selected Areas in Communications (+JSAC+), Special Issue on Age of Information in Real-time Systems and Networks, Volume 39, Issue 5, May 2021.
@@ -22,6 +24,12 @@ Here is a full list of my publications. \n
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen, “[papers/tkde1901.pdf ERATO: Trading Noisy Aggregate Statistics over Private Correlated Data]", Transactions on Knowledge and Data Engineering (+TKDE+), Volume 33, Number 3, Pages 975 - 990, 2021.
 
 == Conference Papers
+
+. Haoming Li\*, Yusen Huo, Shuai Dou, *Zhenzhe Zheng*\#, Zhilin Zhang, Chuan Yu, Jian Xu, Fan Wu, "[ Trajectory-wise Iterative Reinforcement Learning Framework for Auto-bidding]", in Proceedings of The ACM Web Conference (+WWW+ 2024), Singapore, May 13 - 17, 2024.
+
+. Jiani Huang\*, *Zhenzhe Zheng*\#, Yanrong Kang, and Zixiao Wang, "[ From Second to First: Mixed Censored Multi-Task Learning for Winning Price Prediction]", in Proceedings of the 16th ACM International WSDM Conference (+WSDM+), Mérida, México, March 4 - 8, 2024.
+
+. Zixiao Wang\*, *Zhenzhe Zheng*\#, Yanrong Kang, and Jiani Huang, "[ Cost-Effective Active Learning for Bid Exploration in Online Advertising]", in Proceedings of the 16th ACM International WSDM Conference (+WSDM+), Mérida, México, March 4 - 8, 2024.
 
 . Hongtao Lv\*, Xiaohui Bei, *Zhenzhe Zheng*\#, and Fan Wu, "[ Auction Design for Bidders with Ex Post ROI Constraints]" in Proceedings of the 19th Conference on Web and Internet Economics (+WINE+ 2023), Shanghai, China, Dec. 04-08, 2023.
 
