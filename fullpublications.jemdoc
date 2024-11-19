@@ -6,6 +6,7 @@ Here is a full list of my publications. \n
 \* student mentored by me; \  \# Corresponding Author
 
 == Journal Papers
+. Songli Zhang\*, *Zhenzhe Zheng*\#, Fan Wu, Bingshuai Li, Yunfeng Shao, Guihai Chen, "[\  MIDDLE: A Mobility-Driven Device-Edge-Cloud Federated Learning Framework]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2024.
 . *Zhenzhe Zheng*, Weichao Mao, Yidan Xing, Fan Wu, "[https://ieeexplore.ieee.org/abstract/document/10461114  On Designing Market Model and Pricing Mechanisms for IoT Data Exchange]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2024.
 . Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Yunfeng Shao, Bingshuai Li and Guihai Chen, "[https://ieeexplore.ieee.org/document/10478325 ODE: An Online Data Selection Framework for Federated Learning in Mobile Networks]", to appear in IEEE/ACM Transactions on Networking (+TON+), 2024.
 . Anran Xu\*, *Zhenzhe Zheng*\#, Qinya Li, Fan Wu, and Guihai Chen, "[https://ieeexplore.ieee.org/document/10254358 VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]", IEEE Transactions on Mobile Computing (+TMC+), Volume 23, Issue 5, Pages 5966-5983, 2024.
@@ -24,6 +25,8 @@ Here is a full list of my publications. \n
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen, “[papers/tkde1901.pdf ERATO: Trading Noisy Aggregate Statistics over Private Correlated Data]", Transactions on Knowledge and Data Engineering (+TKDE+), Volume 33, Number 3, Pages 975 - 990, 2021.
 
 == Conference Papers
+. Ruitao Zhu\*, Yangsu Liu, Dagui Chen, Zhenjia Ma, Chufeng Shi, *Zhenzhe Zheng*\#, Jie Zhang, Jian Xu, Bo Zheng, Fan Wu ''[\ Contextual Generative Auction with Permutation-level Externalities for Online Advertising]'' in Proceedings of the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2025), Toronto, ON, Canada Aug. 3 - Aug 7, 2025.
+. Ruitao Zhu\*, Wendong Xiao, Yao Yu, Yangsu Liu, *Zhenzhe Zheng*\#, Shuqi Zhang, Dong Li, Fan Wu ''[\ Prices Do Matter: Modeling Price Competitiveness for Online Hotel Industry]'' in Proceedings of the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2025), Toronto, ON, Canada Aug. 3 - Aug 7, 2025.
 . Yan Zhuang\*, , *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, ''[\ LiteMoE: Customizing On-device LLM Serving via Proxy Submodel Tuning]'' in Proceedings of the  22nd ACM Conference on Embedded Networked Sensor Systems  (+SenSys+ 2024), Hangzhou, China, Nov. 4 - 7, 2024.
 . Yumou Liu\*, Haoming Li\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, ''[\ On the Analysis of Two-Stage Stochastic Bandit]'' in Proceedings of the 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (+MobiHoc+ 2024), Athens, Greece, Oct. 14 - 27, 2024.
 . Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Xiaofeng Jia, Guihai Chen, ''[\   Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning]'' in Proceedings of the The 30th Annual International Conference On Mobile Computing And Networking (+MobiCom+ 2024), Washington, D.C., USA, Nov. 18 - 22, 2024.
