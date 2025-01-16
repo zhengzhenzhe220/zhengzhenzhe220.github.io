@@ -34,7 +34,7 @@ Please email me if you are interested.
 
 ~~~
 == Recent News
-- \[2024.12\] I will serve as a TPC member for ACM MobiHoc 2025.
+- \[2025.01\] I will serve as a TPC member for ACM MobiHoc 2025, IEEE WiOpt 2025, ACM KDD 2025, IJCAI 2025.
 - \[2024.12\] Our Paper ''[\ Learning Optimal Auctions with Correlated Value Distributions]'' has been accepted to  +AAAI+ 2025. Congratulations to Da!
 - \[2024.12\] Our Paper ''[\ Latency-aware Online Continual Learning for Non-Stationary Data Streams]'' has been accepted to IEEE +INFOCOM+ 2025. Congratulations to Haibo!
 - \[2024.11\] We have two papers ''[\ Contextual Generative Auction with Permutation-level Externalities for Online Advertising]'' and ''[\ Prices Do Matter: Modeling Price Competitiveness for Online Hotel Industry]'' accepted to ACM +SIGKDD+, 2025. Congratulations to Ruitao!
@@ -48,16 +48,18 @@ Please email me if you are interested.
 - \[2024.04\] Paper ''[papers/tmc24-2.pdf On Designing Market Model and Pricing Mechanisms for IoT Data Exchange]'' has been accepted to IEEE +TMC+, 2024.
 - \[2024.01\] Paper ''[https://dl.acm.org/doi/abs/10.1145/3589334.3645534 Trajectory-wise Iterative Reinforcement Learning Framework for Auto-bidding]'' has been accepted to ACM +WWW+, 2024. Congratulations to Haoming!
 - \[2024.01\] Paper ''[papers/TON24.pdf ODE: An Online Data Selection Framework for Federated Learning in Mobile Networks]'' has been accepted to IEEE/ACM Transactions on Networking (+TON+), 2024. Congratulations to Chen!
-- \[2023.11\] Paper ''[https://dl.acm.org/doi/10.1145/3616855.3635839 Cost-Effective Active Learning for Bid Exploration in Online Advertising]'' and ''[https://dl.acm.org/doi/10.1145/3616855.3635838 From Second to First: Mixed Censored Multi-Task Learning for Winning Price Prediction]'' have been accepted to ACM +WSDM+, 2024. Congratulations to Zixiao and Jiani!
-- \[2023.09\] Paper ''[papers/wine23.pdf Auction Design for Bidders with Ex Post ROI Constraints]'' accepted to Springer +WINE+. Congratulations to Hongtao!
-- \[2023.09\] Paper ''[papers/tmc24-2.pdf VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]'' accepted to IEEE +TMC+. Congratulations to Anran!
-- \[2023.08\] We have five papers accepted to ACM +CIKM+ 2023. Congratulations to the group.
-- \[2023.06\] One Paper "[papers/icpp23.pdf Learning From Your Neighbours: Mobility-Driven Device-Edge-Cloud Federated Learning]" has been accepted to ACM +ICPP+ 2023. Congratulations to Songli.
-- \[2023.05\] One Paper "[papers/kdd23.pdf A Personalized Automated Bidding Framework for Fairness-aware Online Advertising]" has been accepted to ACM +SIGKDD+ 2023. Congratulations to Haoqi.
-- \[2023.04\] One Paper "[papers/ijcai23.pdf Truthful Auctions for Automated Bidding in Online Advertising]" has been accepted to +IJCAI+ 2023. Congratulations to Yidan.
-- \[2023.04\] One Paper "[papers/IWQoS23.pdf Distributed Model Interpretation for Vertical Federated Learning with Feature Discrepancy]" has been accepted to IEEE/ACM +IWQoS+ 2023. Congratulations to Rui.
+
+
+#- \[2023.11\] Paper ''[https://dl.acm.org/doi/10.1145/3616855.3635839 Cost-Effective Active Learning for Bid Exploration in Online Advertising]'' and ''[https://dl.acm.org/doi/10.1145/3616855.3635838 From Second to First: Mixed Censored Multi-Task Learning for Winning Price Prediction]'' have been accepted to ACM +WSDM+, 2024. Congratulations to Zixiao and Jiani!
+#- \[2023.09\] Paper ''[papers/wine23.pdf Auction Design for Bidders with Ex Post ROI Constraints]'' accepted to Springer +WINE+. Congratulations to Hongtao!
+#- \[2023.09\] Paper ''[papers/tmc24-2.pdf VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]'' accepted to IEEE +TMC+. Congratulations to Anran!
+#- \[2023.08\] We have five papers accepted to ACM +CIKM+ 2023. Congratulations to the group.
+#- \[2023.06\] One Paper "[papers/icpp23.pdf Learning From Your Neighbours: Mobility-Driven Device-Edge-Cloud Federated Learning]" has been accepted to ACM +ICPP+ 2023. Congratulations to Songli.
+#- \[2023.05\] One Paper "[papers/kdd23.pdf A Personalized Automated Bidding Framework for Fairness-aware Online Advertising]" has been accepted to ACM +SIGKDD+ 2023. Congratulations to Haoqi.
+#- \[2023.04\] One Paper "[papers/ijcai23.pdf Truthful Auctions for Automated Bidding in Online Advertising]" has been accepted to +IJCAI+ 2023. Congratulations to Yidan.
+#- \[2023.04\] One Paper "[papers/IWQoS23.pdf Distributed Model Interpretation for Vertical Federated Learning with Feature Discrepancy]" has been accepted to IEEE/ACM +IWQoS+ 2023. Congratulations to Rui.
 #- \[2023.01\] I will serve as a TPC member for IEEE INFOCOM 2024, IEEE WiOpt 2023, IJCAI 2023, NIPS 2023.
-- \[2023.01\] Two Papers "[papers/www23-1.pdf To Store or Not? Online Data Selection for Federated Learning with Limited Storage]" and "[papers/www23-2.pdf LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation]" have been accepted to ACM +WWW+, 2023. Congratulations to Chen and Ruitao!
+#- \[2023.01\] Two Papers "[papers/www23-1.pdf To Store or Not? Online Data Selection for Federated Learning with Limited Storage]" and "[papers/www23-2.pdf LINet: A Location and Intention-Aware Neural Network for Hotel Group Recommendation]" have been accepted to ACM +WWW+, 2023. Congratulations to Chen and Ruitao!
 
 #- \[2022.11\] Paper "[papers/AAAI23.pdf Utility Maximizer or Value Maximizer: Mechanism Design for Mixed Bidders in Online Advertising]" has been accepted to AAAI, 2023. Congratulations to Hongtao!
 #- \[2022.10\] Paper "[papers/WSDM23.pdf Boosting Advertising Space: On Designing Ad Auctions for Augment Advertising]" has been accepted to ACM WSDM, 2023. Congratulations to Yangsu!
