@@ -3,9 +3,10 @@
 
 ~~~
 {}{img_left}{photos/pic_zzz_new.jpeg}{alt text}{160}{200}{http://zhengzhenzhe220.github.io}
-Associate Professor, \n
+Professor, \n
 Ph.D. Advisor, \n
-[http://www.cs.sjtu.edu.cn/  School of Computer Science, \n [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University]\n
+[http://www.cs.sjtu.edu.cn/  School of Computer Science], \n
+[https://www.sjtu.edu.cn/ Shanghai Jiao Tong University]\n
 3-509 SEIEE Building \n
 800 Dongchuan Road \n
 Shanghai 200240, P.R. China \n
@@ -13,7 +14,7 @@ E-mail: /zhengzhenzhe/ \[@\] sjtu \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-Welcome to my homepage! I am currently a tenure-track associate professor in the [http://www.cs.sjtu.edu.cn/  School of Computer Science and Engineering]
+Welcome to my homepage! I am currently a  professor in the [http://www.cs.sjtu.edu.cn/  School of Computer Science]
 @ [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University].
 
 I received my Ph.D. from the [http://www.cs.sjtu.edu.cn/ CS] department @ [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University] in March 2018.
@@ -34,6 +35,10 @@ Please email me if you are interested.
 
 ~~~
 == Recent News
+- \[2025.08\] We have two papers ''[\ Online Contract Design for Creator Economy in the Era of GenAI]'' and ''[\ DRAGON: Enhancing On-Device Model Performance with Distributed Retrieval-Augmented Generation]'' accepted to ACM +MobiHoc+, 2025, Congratulations to Yumou and Shangyu!
+
+- \[2025.07\] We have two papers ''[\ User Context Generation for Large Language Models from Mobile Sensing Data]'' and ''[\ From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control]'' accepted to IEEE Transactions on Mobile Computing (TMC), Congratulations to Rui and Haibo!
+
 - \[2025.05\] We have five papers accepted to ACM +SIGKDD+, 2025, February Cycle. Congratulations to Chen, Qilong, Chufeng, Yidan and Jianqing!
 - \[2025.01\] Our Paper ''[\ Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration]'' has been accepted to ACM +WWW+ 2025. Congratulations to Haibo!
 - \[2025.01\] I will serve as a TPC member for ACM MobiHoc 2025, IEEE WiOpt 2025, ACM KDD 2025, IJCAI 2025.

@@ -6,7 +6,9 @@ Here is a full list of my publications. \n
 \* student mentored by me; \  \# Corresponding Author
 
 == Journal Papers
-. Songli Zhang\*, *Zhenzhe Zheng*\#, Fan Wu, Bingshuai Li, Yunfeng Shao, Guihai Chen, "[\  MIDDLE: A Mobility-Driven Device-Edge-Cloud Federated Learning Framework]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2024.
+. Rui Xing\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\  User Context Generation for Large Language Models from Mobile Sensing Data]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2025, DOI: 10.1109/TMC.2025.3591561.
+. Haibo Liu\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\  From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control]", to appear in IEEE Transactions on Mobile Computing (+TMC+), 2025, DOI: DOI: 10.1109/TMC.2025.3585538.
+. Songli Zhang\*, *Zhenzhe Zheng*\#, Fan Wu, Bingshuai Li, Yunfeng Shao, Guihai Chen, "[\papers/TMC24-1.pdf  MIDDLE: A Mobility-Driven Device-Edge-Cloud Federated Learning Framework]", IEEE Transactions on Mobile Computing (+TMC+),  Volume 24, Issue 6, Pages 4589 - 4606, 2025.
 . *Zhenzhe Zheng*, Weichao Mao, Yidan Xing, Fan Wu, "[papers/TMC24-2.pdf On Designing Market Model and Pricing Mechanisms for IoT Data Exchange]", IEEE Transactions on Mobile Computing (+TMC+), Volume 23, Issue 11, Pages 10202 - 10218, 2024.
 . Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Yunfeng Shao, Bingshuai Li and Guihai Chen, "[papers/TON24.pdf ODE: An Online Data Selection Framework for Federated Learning in Mobile Networks]", IEEE/ACM Transactions on Networking (+TON+), Volume 32, Issue 4, Pages 2794 - 2809, 2024.
 . Anran Xu\*, *Zhenzhe Zheng*\#, Qinya Li, Fan Wu, and Guihai Chen, "[papers/TMC24-1.pdf VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]", IEEE Transactions on Mobile Computing (+TMC+), Volume 23, Issue 5, Pages 5966-5983, 2024.
@@ -25,6 +27,8 @@ Here is a full list of my publications. \n
 . Chaoyue Niu, *Zhenzhe Zheng*, Fan Wu, Shaojie Tang, Xiaofeng Gao, and Guihai Chen, “[papers/tkde1901.pdf ERATO: Trading Noisy Aggregate Statistics over Private Correlated Data]", Transactions on Knowledge and Data Engineering (+TKDE+), Volume 33, Number 3, Pages 975 - 990, 2021.
 
 == Conference Papers
+. Yumou Liu\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, ''[\ Online Contract Design for Creator Economy in the Era of GenAI]'' in Proceedings of the 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (+MobiHoc+ 2025), Houston, USA, Oct. 27 - 30, 2025.
+. Shangyu Liu\*, *Zhenzhe Zheng*\#, Xiaoyao Huang, Fan Wu, Guihai Chen, Jie Wu, ''[\ DRAGON: Enhancing On-Device Model Performance with Distributed Retrieval-Augmented Generation]'' in Proceedings of the 26th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (+MobiHoc+ 2025), Houston, USA, Oct. 27 - 30, 2025.
 . Chen Gong\*, Rui Xing, *Zhenzhe Zheng*\#, Fan Wu ''[\ A Two-Stage Data Selection Framework for Data-Efficient Model Training on Edge Devices]'' in Proceedings of the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2025), Toronto, ON, Canada Aug. 3 - Aug 7, 2025.
 . Qilong Lin\*, Yangsu Liu, Dagui Chen, *Zhenzhe Zheng*\#, Jian Xu, Bo Zheng, Fan Wu, Guihai Chen
 ''[\ Robust Data-Driven Auction Design]'' in Proceedings of the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2025), Toronto, ON, Canada Aug. 3 - Aug 7, 2025.
