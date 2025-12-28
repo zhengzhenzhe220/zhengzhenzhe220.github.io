@@ -6,6 +6,7 @@ Here is a full list of my publications. \n
 \* student mentored by me; \  \# Corresponding Author
 
 == Journal Papers
+. Yan Zhuang\*, Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\ Resource-Efficient LLM Customization on Mobile Devices through Proxy Submodel Tuning]", to appear in IEEE/ACM Transactions on Networking (+TON+), 2026.
 . Rui Xing\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\  User Context Generation for Large Language Models from Mobile Sensing Data]", in IEEE Transactions on Mobile Computing (+TMC+), Volume 24, Issue 12, Pages 13678 - 13695, 2025.
 . Haibo Liu\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\  From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control]", in IEEE Transactions on Mobile Computing (+TMC+), Volume 24, Issue 11, Pages 11717 - 11730, 2025.
 . Songli Zhang\*, *Zhenzhe Zheng*\#, Fan Wu, Bingshuai Li, Yunfeng Shao, Guihai Chen, "[\papers/TMC24-1.pdf  MIDDLE: A Mobility-Driven Device-Edge-Cloud Federated Learning Framework]", IEEE Transactions on Mobile Computing (+TMC+),  Volume 24, Issue 6, Pages 4589 - 4606, 2025.
