@@ -24,7 +24,7 @@ advised by Prof. [https://sites.google.com/a/illinois.edu/srikant/ R. Srikant].
 I am the recipient of the [https://www.ccf.org.cn/Awards/Awards_Recipients/2018/Doctoral_Dissertation/  China Computer Federation (CCF) Excellent Doctoral Dissertation Award] in 2018. During my Ph.D. program, I was supported by [http://ai.googleblog.com/2015/08/announcing-googles-2015-global-phd.html Google Ph.D. Fellowship] and [https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/ Microsoft Research Asia Ph.D. Fellowship].
 #-Prior to my Ph.D., I received my B.E. in Software Engineering from [https://www.xidian.edu.cn/ Xidian University] in June 2012, and M.S. in Computer Science from [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University] in March 2015.
 
-My research interests are in the intersection of economics, learning and system. In particular, I have focused on game theory, machine learning, mobile computing and their applications for Agentic AI system, such as On-device AI Agent and Multi-agents online platform markets.
+My research interests are in the intersection of economics, learning and system. In particular, I have focused on game theory, machine learning, mobile computing and their applications for Agentic AI system, such as On-device AI Agents and Strategic AI Agents with applications to personal AI assistants and online platform markets.
 
 ~~~
 *Students & Postdoc*: I am constantly looking for well motivated students (both undergrad and graduate) and Postdoc who are interested in
@@ -104,5 +104,5 @@ Continual Learning for Embedded AI]" and "[\ A Creator-Aware Recommendation Syst
 
 == Research Interests
 - Agentic AI
-- On-device Machine Learning
-- Large-scale Decision Making
+- On-Device AI Agents & Personal Intelligence
+- Strategic AI Agents & Decision Intelligence
