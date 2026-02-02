@@ -14,7 +14,6 @@ Here is a full list of my publications with two directions: *On-Device AI Agents
 . Rui Xing\*, *Zhenzhe Zheng*\#, Qinya Li, Fan Wu, Guihai Chen, "[\ MI-VFL: Feature discrepancy-aware distributed model interpretation for vertical federated learning]", in Elsevier Computer Networks (+CN+), Volume 263, 2025.
 . Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Yunfeng Shao, Bingshuai Li and Guihai Chen, "[papers/TON24.pdf ODE: An Online Data Selection Framework for Federated Learning in Mobile Networks]", IEEE/ACM Transactions on Networking (+TON+), Volume 32, Issue 4, Pages 2794 - 2809, 2024.
 . Fan Wu,  Shuo Yang, *Zhenzhe Zheng*, Shaojie Tang, and Guihai Chen, "[papers/tmc20-1.pdf Fine Grained User Profiling for Personalized Task Matching in Mobile Crowdsensing]", IEEE Transactions on Mobile Computing (+TMC+), Volume 20, Number 10, Pages 2961-2976, 2021.
-. Yuanyuan Li, Linghe Kong, Fan Wu, *Zhenzhe Zheng*, and Guihai Chen, "[papers/globecom16.pdf MAPM: Movement-based Adaptive Prediction Mechanism for Energy Conservation in Body Sensor Networks]", in Proceeding of the 2016 IEEE Global Communications Conference (IEEE +GLOBECOM+, 2016), Washington, DC USA, Dec. 4-8, 2016.
 
 === Conference Papers
 . Chenxin Mao\*, Haibo Liu\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\ Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI]" in Proceedings of The ACM Web Conference (+WWW+ 2026), Dubai, UAE, April 13 - April 17, 2026.
@@ -38,6 +37,7 @@ Here is a full list of my publications with two directions: *On-Device AI Agents
 . Shuo Yang, Kunyang Han, *Zhenzhe Zheng*, Shaojie Tang, and Fan Wu, “[papers/infocom1802.pdf Towards Personalized Task Matching in Mobile Crowdsensing via Fine-Grained User Profiling]”, in Proceedings of the 37th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2018), Honolulu, HI, USA,  Apr 16-19, 2018.
 . Shengzhong Liu\+, *Zhenzhe Zheng*\+, Fan Wu, Shaojie Tang and Guihai Chen, “[papers/infocom17.pdf Context-Aware Data Quality Estimation in Mobile Crowdsensing]”, in Proceedings of the 36th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2017), Atlanta, GA, USA, May 1-4, 2017.  (\+:Co-Primary Authors)
 . Xiao Ma\*, *Zhenzhe Zheng*, Fan Wu, and Guihai Chen, "[papers/icc17.pdf Trust-Based Time Series Data Model for Mobile Crowdsensing]", in Proceedings of the 2017 IEEE International Conference on Communications (IEEE +ICC+, 2017), Paris, France, May 21-25, 2017.
+. Yuanyuan Li, Linghe Kong, Fan Wu, *Zhenzhe Zheng*, and Guihai Chen, "[papers/globecom16.pdf MAPM: Movement-based Adaptive Prediction Mechanism for Energy Conservation in Body Sensor Networks]", in Proceeding of the 2016 IEEE Global Communications Conference (IEEE +GLOBECOM+, 2016), Washington, DC USA, Dec. 4-8, 2016.
 
 == Strategic AI Agents & Decision Intelligence
 === Journal Papers
