@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{fullpublications.html}, nofooter
 ==Full Publications
 
-Here is a full list of my publications with two directions: *On-Device AI & Personal Intelligence* and *AI Agents & Decision Intelligence*. \n
+Here is a full list of my publications with two directions: *On-Device AI Agents & Personal Intelligence* and *Strategic AI Agents & Decision Intelligence*. \n
 [https://scholar.google.com/citations?user=kx_5xxEAAAAJ&hl=en My Google Scholar.]\n
 \* student mentored by me; \  \# Corresponding Author
 
-== On-Device AI & Personal Intelligence
+== On-Device AI Agents & Personal Intelligence
 === Journal Papers
 . Yan Zhuang\*, Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "Resource-Efficient LLM Customization on Mobile Devices through Proxy Submodel Tuning", to appear in IEEE/ACM Transactions on Networking (+TON+), 2026.
 . Rui Xing\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "User Context Generation for Large Language Models from Mobile Sensing Data", in IEEE Transactions on Mobile Computing (+TMC+), Volume 24, Issue 12, Pages 13678 - 13695, 2025.
@@ -39,7 +39,7 @@ Here is a full list of my publications with two directions: *On-Device AI & Pers
 . Shengzhong Liu\+, *Zhenzhe Zheng*\+, Fan Wu, Shaojie Tang and Guihai Chen, “[papers/infocom17.pdf Context-Aware Data Quality Estimation in Mobile Crowdsensing]”, in Proceedings of the 36th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2017), Atlanta, GA, USA, May 1-4, 2017.  (\+:Co-Primary Authors)
 . Xiao Ma\*, *Zhenzhe Zheng*, Fan Wu, and Guihai Chen, "[papers/icc17.pdf Trust-Based Time Series Data Model for Mobile Crowdsensing]", in Proceedings of the 2017 IEEE International Conference on Communications (IEEE +ICC+, 2017), Paris, France, May 21-25, 2017.
 
-== AI Agents & Decision Intelligence
+== Strategic AI Agents & Decision Intelligence
 === Journal Papers
 . *Zhenzhe Zheng*, Weichao Mao\*, Yidan Xing\*, Fan Wu, "[papers/TMC24-2.pdf On Designing Market Model and Pricing Mechanisms for IoT Data Exchange]", IEEE Transactions on Mobile Computing (+TMC+), Volume 23, Issue 11, Pages 10202 - 10218, 2024.
 . Anran Xu\*, *Zhenzhe Zheng*\#, Qinya Li, Fan Wu, and Guihai Chen, "[papers/TMC24-1.pdf VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]", IEEE Transactions on Mobile Computing (+TMC+), Volume 23, Issue 5, Pages 5966-5983, 2024.
