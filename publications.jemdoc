@@ -8,6 +8,8 @@ In particular, I have focused on game theory, machine learning and their applica
 \* student mentored by me; \  \# Corresponding Author
 
 == On-Device AI Agents & Personal Intelligence
+. Peishuo Wang\*, *Zhenzhe Zheng*\#, Xiaoyao Huang, Jie Wu, Fan Wu, Guihai Chen "[\ 	KV Cache Reuse for Elastic LLM Inference on Edge Devices]" in Proceedings of the 46th IEEE International Conference on Distributed Computing (IEEE +ICDCS+ 2026), Seoul, South Korea, June 22-25, 2026.
+. Haibo Liu\*, Chenxin Mao\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, He Huang"[\ Lethe: Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning]" in Proceedings of the 2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2026), Jeju, Korea, Aug. 9 - 13, 2026.
 . Chenxin Mao\*, Haibo Liu\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\ Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI]" in Proceedings of The ACM Web Conference (+WWW+ 2026), Dubai, UAE, April 13 - April 17, 2026.
 . Yan Zhuang\*, Chen Gong\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\ Resource-Efficient LLM Customization on Mobile Devices through Proxy Submodel Tuning]", to appear in IEEE/ACM Transactions on Networking (+TON+), 2026.
 . Chen Gong\*, Yan Zhuang\*, *Zhenzhe Zheng*\#, Yiliu Chen, Sheng Wang, Fan Wu, Guihai Chen, "[\ Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps]" in Proceedings of ACM International Conference on Measurement and Modeling of Computer Systems  (+SIGMETRICS+ 2026), Ann Arbor, Michigan, USA, June 8-12, 2026.
@@ -33,6 +35,8 @@ In particular, I have focused on game theory, machine learning and their applica
 . Shengzhong Liu\+, *Zhenzhe Zheng*\+, Fan Wu, Shaojie Tang and Guihai Chen, "[\ Context-Aware Data Quality Estimation in Mobile Crowdsensing]", in Proceedings of the 36th IEEE International Conference on Computer Communications (IEEE +INFOCOM+ 2017), Atlanta, GA, USA, May 1-4, 2017.  (\+:Co-Primary Authors)
 
 == Strategic AI Agents & Decision Intelligence
+. Hongtao Lv\*, Xiaohui Bei, *Zhenzhe Zheng*, Fan Wu, "[\ Auction Design with Ex Post ROI Constraints]", Journal of Artificial Intelligence (+JAI+), Volume 357, 2026.
+. Yidan Xing\*, Rui Guo, ixin Tao, Dagui Chen, *Zhenzhe Zheng*\#, Jian Xu, Fan Wu "[\ Two-Stage Auctions with Bid Refinement for Online Advertising]" in Proceedings of the 2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2026), Jeju, Korea, Aug. 9 - 13, 2026.
 . Wenjing Li\*, Jiang Rong, Yao Hu, *Zhenzhe Zheng*\#, Fan Wu, "[\ A Creator-Aware Recommendation System for Content Platforms]" in Proceedings of The ACM Web Conference (+WWW+ 2026), Dubai, UAE, April 13 - April 17, 2026.
 . Anran Xu\*, *Zhenzhe Zheng*\#, Wenming Zheng, Fan Wu, "[\ Budget-Constrained Federated Bandits for Mobile Applications]" in Proceedings of the 44th IEEE International Conference on Computer Communications (+INFOCOM+ 2026), Tokyo, Japan, May 18-21, 2026.
 . Yumou Liu\*, *Zhenzhe Zheng*\#, Jiang Rong, Yao Hu, Fan Wu, Guihai Chen, "[\ Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion]" in Proceedings of ACM International Conference on Measurement and Modeling of Computer Systems  (+SIGMETRICS+ 2026), Ann Arbor, Michigan, USA, June 8-12, 2026.
