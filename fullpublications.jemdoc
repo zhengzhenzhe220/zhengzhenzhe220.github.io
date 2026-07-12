@@ -16,7 +16,7 @@ Here is a full list of my publications with two directions: *On-Device AI Agents
 . Fan Wu,  Shuo Yang, *Zhenzhe Zheng*, Shaojie Tang, and Guihai Chen, "[papers/tmc20-1.pdf Fine Grained User Profiling for Personalized Task Matching in Mobile Crowdsensing]", IEEE Transactions on Mobile Computing (+TMC+), Volume 20, Number 10, Pages 2961-2976, 2021.
 
 === Conference Papers
-
+. Yan Zhuang\*, Chen Gong, *Zhenzhe Zheng*\#, Xiaoyao Huang, Jie Wu, Fan Wu, Guihai Chen "[\ 	Sparsity-Aware Scheduling for Efficient MoE-Based LLM Serving on Edge Servers]" in Proceedings of the 32nd Annual International Conference on Mobile Computing and Networking (ACM +MobiCom+ 2026), Austin, Texas, USA, Oct 26-30, 2026.
 . Peishuo Wang\*, *Zhenzhe Zheng*\#, Xiaoyao Huang, Jie Wu, Fan Wu, Guihai Chen "[\ 	KV Cache Reuse for Elastic LLM Inference on Edge Devices]" in Proceedings of the 46th IEEE International Conference on Distributed Computing (IEEE +ICDCS+ 2026), Seoul, South Korea, June 22-25, 2026.
 . Haibo Liu\*, Chenxin Mao\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, He Huang"[\ Lethe: Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning]" in Proceedings of the 2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (+SIGKDD+ 2026), Jeju, Korea, Aug. 9 - 13, 2026.
 . Chenxin Mao\*, Haibo Liu\*, *Zhenzhe Zheng*\#, Fan Wu, Guihai Chen, "[\ Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI]" in Proceedings of The ACM Web Conference (+WWW+ 2026), Dubai, UAE, April 13 - April 17, 2026.
