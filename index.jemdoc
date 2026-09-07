@@ -36,42 +36,43 @@ Please email me if you are interested.
 ~~~
 == Recent News
 
+- \[2026.08\] We have two papers "[\ Enhanced Decision-Focused Bidding for Online Advertising]" and "[\ Joint Incentive Contract and Assignment Design for Mobile Networked Platforms with Endogenous Supply]" accepted to ACM +MobiHoc+, 2026, Congratulations to Qilong and Yumou!
 - \[2026.07\] Our paper "[\ Sparsity-Aware Scheduling for Efficient MoE-Based LLM Serving on Edge Servers]" accepted to ACM +MobiCom+, 2026, Congratulations to Yan!
-- \[2026.05\] We have two papers "[\ Lethe: Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning]" and "[\ Two-Stage Auctions with Bid Refinement for Online Advertising]" accepted to ACM +KDD+, 2026, Congratulations to Haibo and Yidan!
-- \[2026.04\] Our Paper "[\ Auction Design with Ex Post ROI Constraints]" has been accepted to Journal of Artificial Intelligence (+JAI+). Congratulations to Hongtao!
-- \[2026.04\] Our Paper "[\ KV Cache Reuse for Elastic LLM Inference on Edge Devices]" has been accepted to IEEE +ICDCS+. Congratulations to Peishuo!
-- \[2026.01\] We have two papers "[\ Smaller but Better: Plasticity-Preserving On-Device
-Continual Learning for Embedded AI]" and "[\ A Creator-Aware Recommendation System for Content Platforms]" accepted to ACM +WWW+, 2026, Congratulations to Chenxin and Wenjing!
-- \[2025.12\] Our Paper "[\ "Resource-Efficient LLM Customization on Mobile Devices through Proxy Submodel Tuning]" has been accepted to IEEE/ACM Transactions on Networking (+TON+). Congratulations to Yan!
+- \[2026.05\] We have two papers "[papers/KDD26-1.pdf Lethe: Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning]" and "[papers/KDD26-2.pdf Two-Stage Auctions with Bid Refinement for Online Advertising]" accepted to ACM +KDD+, 2026, Congratulations to Haibo and Yidan!
+- \[2026.04\] Our Paper "[papers/JAI26.pdf Auction Design with Ex Post ROI Constraints]" has been accepted to Journal of Artificial Intelligence (+JAI+). Congratulations to Hongtao!
+- \[2026.04\] Our Paper "[papers/ICDCS26.pdf KV Cache Reuse for Elastic LLM Inference on Edge Devices]" has been accepted to IEEE +ICDCS+. Congratulations to Peishuo!
+- \[2026.01\] We have two papers "[papers/WWW26-1.pdf Smaller but Better: Plasticity-Preserving On-Device
+Continual Learning for Embedded AI]" and "[papers/WWW26-2.pdf A Creator-Aware Recommendation System for Content Platforms]" accepted to ACM +WWW+, 2026, Congratulations to Chenxin and Wenjing!
+- \[2025.12\] Our Paper "[papers/TON26-2.pdf Resource-Efficient LLM Customization on Mobile Devices through Proxy Submodel Tuning]" has been accepted to IEEE/ACM Transactions on Networking (+TON+). Congratulations to Yan!
 - \[2025.12\] I will serve as a TPC member for ACM MobiHoc 2026.
-- \[2025.12\] Our Paper "[\ Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion]" has been accepted to ACM +SIGMETRICS+ 2026. Congratulations to Yumou!
-- \[2025.12\] Our Paper "[\ Budget-Constrained Federated Bandits for Mobile Applications]" has been accepted to IEEE +INFOCOM+ 2026. Congratulations to Anran!
-- \[2025.09\] Our Paper "[\ Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps]" has been accepted to ACM +SIGMETRICS+ 2026. Congratulations to Chen!
-- \[2025.09\] Our Paper "[\ Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences]" has been accepted to ACM +SenSys+ 2026. Congratulations to Chen!
-- \[2025.08\] We have two papers "[\ Online Contract Design for Creator Economy in the Era of GenAI]" and "[\ DRAGON: Enhancing On-Device Model Performance with Distributed Retrieval-Augmented Generation]" accepted to ACM +MobiHoc+, 2025, Congratulations to Yumou and Shangyu!
+- \[2025.12\] Our Paper "[papers/SIGMETRICS26-1.pdf Guiding the Recommender: Information-Aware Auto-Bidding for Content Promotion]" has been accepted to ACM +SIGMETRICS+ 2026. Congratulations to Yumou!
+- \[2025.12\] Our Paper "[papers/INFOCOM26.pdf Budget-Constrained Federated Bandits for Mobile Applications]" has been accepted to IEEE +INFOCOM+ 2026. Congratulations to Anran!
+- \[2025.09\] Our Paper "[papers/SIGMETRICS26.pdf Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps]" has been accepted to ACM +SIGMETRICS+ 2026. Congratulations to Chen!
+- \[2025.09\] Our Paper "[papers/SenSys26.pdf Optimizing Feature Extraction for On-Device Model Inference with User Behavior Sequences]" has been accepted to ACM +SenSys+ 2026. Congratulations to Chen!
+- \[2025.08\] We have two papers "[papers/MobiHoc25-2.pdf Online Contract Design for Creator Economy in the Era of GenAI]" and "[papers/MobiHoc25-1.pdf DRAGON: Enhancing On-Device Model Performance with Distributed Retrieval-Augmented Generation]" accepted to ACM +MobiHoc+, 2025, Congratulations to Yumou and Shangyu!
 
-- \[2025.07\] We have two papers "[\ User Context Generation for Large Language Models from Mobile Sensing Data]" and "[\ From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control]" accepted to IEEE Transactions on Mobile Computing (+TMC+), Congratulations to Rui and Haibo!
+- \[2025.07\] We have two papers "[papers/TMC25-2.pdf User Context Generation for Large Language Models from Mobile Sensing Data]" and "[papers/TMC25-3.pdf From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control]" accepted to IEEE Transactions on Mobile Computing (+TMC+), Congratulations to Rui and Haibo!
 - \[2025.05\] We have five papers accepted to ACM +SIGKDD+, 2025, February Cycle. Congratulations to Chen, Qilong, Chufeng, Yidan and Jianqing!
-- \[2025.01\] Our Paper "[\ Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration]" has been accepted to ACM +WWW+ 2025. Congratulations to Haibo!
+- \[2025.01\] Our Paper "[papers/WWW25.pdf Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration]" has been accepted to ACM +WWW+ 2025. Congratulations to Haibo!
 - \[2025.01\] I will serve as a TPC member for ACM MobiHoc 2025, IEEE WiOpt 2025, ACM KDD 2025, IJCAI 2025.
-#- \[2024.12\] Our Paper "[\ Learning Optimal Auctions with Correlated Value Distributions]" has been accepted to  +AAAI+ 2025. Congratulations to Da!
-#- \[2024.12\] Our Paper "[\ Latency-aware Online Continual Learning for Non-Stationary Data Streams]" has been accepted to IEEE +INFOCOM+ 2025. Congratulations to Haibo!
-#- \[2024.11\] We have two papers "[\ Contextual Generative Auction with Permutation-level Externalities for Online Advertising]" and "[\ Prices Do Matter: Modeling Price Competitiveness for Online Hotel Industry]" accepted to ACM +SIGKDD+, 2025. Congratulations to Ruitao!
-#- \[2024.11\] Our Paper "[\ MIDDLE: A Mobility-Driven Device-Edge-Cloud Federated Learning Framework]" has been accepted to IEEE Transactions on Mobile Computing (+TMC+). Congratulations to Songli!
-#- \[2024.09\] Our Paper "[\ LiteMoE: Customizing On-device LLM Serving via Proxy Submodel Tuning]" has been accepted to ACM +SenSys+ 2024. Congratulations to Yan!
-#- \[2024.07\] Our Paper "[\ On the Analysis of Two-Stage Stochastic Bandit]" has been accepted to ACM +MobiHoc+ 2024. Congratulations to Yumou!
+#- \[2024.12\] Our Paper "[papers/AAAI25.pdf Learning Optimal Auctions with Correlated Value Distributions]" has been accepted to  +AAAI+ 2025. Congratulations to Da!
+#- \[2024.12\] Our Paper "[papers/INFOCOM25.pdf Latency-aware Online Continual Learning for Non-Stationary Data Streams]" has been accepted to IEEE +INFOCOM+ 2025. Congratulations to Haibo!
+#- \[2024.11\] We have two papers "[papers/KDD25-5.pdf Contextual Generative Auction with Permutation-level Externalities for Online Advertising]" and "[papers/KDD25-6.pdf Prices Do Matter: Modeling Price Competitiveness for Online Hotel Industry]" accepted to ACM +SIGKDD+, 2025. Congratulations to Ruitao!
+#- \[2024.11\] Our Paper "[papers/TMC25-1.pdf MIDDLE: A Mobility-Driven Device-Edge-Cloud Federated Learning Framework]" has been accepted to IEEE Transactions on Mobile Computing (+TMC+). Congratulations to Songli!
+#- \[2024.09\] Our Paper "[papers/SenSys24.pdf LiteMoE: Customizing On-device LLM Serving via Proxy Submodel Tuning]" has been accepted to ACM +SenSys+ 2024. Congratulations to Yan!
+#- \[2024.07\] Our Paper "[papers/MobiHoc24.pdf On the Analysis of Two-Stage Stochastic Bandit]" has been accepted to ACM +MobiHoc+ 2024. Congratulations to Yumou!
 #- \[2024.06\] Our Paper "[papers/MobiCom24.pdf Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning]" has been accepted to ACM +MobiCom+ 2024. Congratulations to Chen!
-#- \[2024.06\] Our Paper "[\   Nebula: An Edge-Cloud Collaborative Learning Framework for Dynamic Edge Environments]" has been accepted to ACM +ICPP+ 2024. Congratulations to Yan!
+#- \[2024.06\] Our Paper "[papers/icpp24.pdf Nebula: An Edge-Cloud Collaborative Learning Framework for Dynamic Edge Environments]" has been accepted to ACM +ICPP+ 2024. Congratulations to Yan!
 #- \[2024.05\] We have three papers "[papers/KDD24-1.pdf  Preventing Strategic Behaviors in Collaborative Inference for Vertical Federated Learning]",
-#- "[\ Robust Auto-Bidding Strategies for Online Advertising]" and "[\ Truthful Bandit Mechanisms for Repeated Two-stage Ad Auctions]" been accepted to ACM +SIGKDD+, 2024. Congratulations to Yidan, Qilong and Haoming!
-#- \[2024.04\] Paper "[\   Mobility-Aware Device Sampling for Statistical Heterogeneity in Hierarchical Federated Learning]" has been accepted to IEEE +ICDCS+, 2024. Congratulations to Songli!
-#- \[2024.04\] Paper "[papers/tmc24-2.pdf On Designing Market Model and Pricing Mechanisms for IoT Data Exchange]" has been accepted to IEEE +TMC+, 2024.
-#- \[2024.01\] Paper "[https://dl.acm.org/doi/abs/10.1145/3589334.3645534 Trajectory-wise Iterative Reinforcement Learning Framework for Auto-bidding]" has been accepted to ACM +WWW+, 2024. Congratulations to Haoming!
+#- "[papers/KDD24-2.pdf Robust Auto-Bidding Strategies for Online Advertising]" and "[papers/KDD24-3.pdf Truthful Bandit Mechanisms for Repeated Two-stage Ad Auctions]" been accepted to ACM +SIGKDD+, 2024. Congratulations to Yidan, Qilong and Haoming!
+#- \[2024.04\] Paper "[papers/ICDCS24.pdf Mobility-Aware Device Sampling for Statistical Heterogeneity in Hierarchical Federated Learning]" has been accepted to IEEE +ICDCS+, 2024. Congratulations to Songli!
+#- \[2024.04\] Paper "[papers/TMC24-2.pdf On Designing Market Model and Pricing Mechanisms for IoT Data Exchange]" has been accepted to IEEE +TMC+, 2024.
+#- \[2024.01\] Paper "[papers/WWW24.pdf Trajectory-wise Iterative Reinforcement Learning Framework for Auto-bidding]" has been accepted to ACM +WWW+, 2024. Congratulations to Haoming!
 #- \[2024.01\] Paper "[papers/TON24.pdf ODE: An Online Data Selection Framework for Federated Learning in Mobile Networks]" has been accepted to IEEE/ACM Transactions on Networking (+TON+), 2024. Congratulations to Chen!
 
-#- \[2023.11\] Paper "[https://dl.acm.org/doi/10.1145/3616855.3635839 Cost-Effective Active Learning for Bid Exploration in Online Advertising]" and "[https://dl.acm.org/doi/10.1145/3616855.3635838 From Second to First: Mixed Censored Multi-Task Learning for Winning Price Prediction]" have been accepted to ACM +WSDM+, 2024. Congratulations to Zixiao and Jiani!
+#- \[2023.11\] Paper "[papers/WSDM24-2.pdf Cost-Effective Active Learning for Bid Exploration in Online Advertising]" and "[papers/WSDM24-1.pdf From Second to First: Mixed Censored Multi-Task Learning for Winning Price Prediction]" have been accepted to ACM +WSDM+, 2024. Congratulations to Zixiao and Jiani!
 #- \[2023.09\] Paper "[papers/wine23.pdf Auction Design for Bidders with Ex Post ROI Constraints]" accepted to Springer +WINE+. Congratulations to Hongtao!
-#- \[2023.09\] Paper "[papers/tmc24-2.pdf VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]" accepted to IEEE +TMC+. Congratulations to Anran!
+#- \[2023.09\] Paper "[papers/TMC23.pdf VAP: Online Data Valuation and Pricing for Machine Learning Models in Mobile Health]" accepted to IEEE +TMC+. Congratulations to Anran!
 #- \[2023.08\] We have five papers accepted to ACM +CIKM+ 2023. Congratulations to the group.
 #- \[2023.06\] One Paper "[papers/icpp23.pdf Learning From Your Neighbours: Mobility-Driven Device-Edge-Cloud Federated Learning]" has been accepted to ACM +ICPP+ 2023. Congratulations to Songli.
 #- \[2023.05\] One Paper "[papers/kdd23.pdf A Personalized Automated Bidding Framework for Fairness-aware Online Advertising]" has been accepted to ACM +SIGKDD+ 2023. Congratulations to Haoqi.
@@ -82,15 +83,15 @@ Continual Learning for Embedded AI]" and "[\ A Creator-Aware Recommendation Syst
 
 #- \[2022.11\] Paper "[papers/AAAI23.pdf Utility Maximizer or Value Maximizer: Mechanism Design for Mixed Bidders in Online Advertising]" has been accepted to AAAI, 2023. Congratulations to Hongtao!
 #- \[2022.10\] Paper "[papers/WSDM23.pdf Boosting Advertising Space: On Designing Ad Auctions for Augment Advertising]" has been accepted to ACM WSDM, 2023. Congratulations to Yangsu!
-#- \[2022.08\] Two Papers "[papers/CIKM2022-1.pdf Control-based Bidding for Mobile Livestreaming Ads with Exposure Guarantee]" and "[https://arxiv.org/pdf/2205.15759.pdf  Hierarchically Constrained Adaptive Ad Exposure in Feeds]" have been accepted to ACM CIKM, 2022. Congratulations to Haoqi, Dagui and Qi!
+#- \[2022.08\] Two Papers "[papers/CIKM2022-1.pdf Control-based Bidding for Mobile Livestreaming Ads with Exposure Guarantee]" and "[papers/CIKM2022-2.pdf Hierarchically Constrained Adaptive Ad Exposure in Feeds]" have been accepted to ACM CIKM, 2022. Congratulations to Haoqi, Dagui and Qi!
 #- \[2022.07\] I will serve as a TPC member for IEEE INFOCOM 2023 and ACM MobiHoc 2023.
-#- \[2022.01\] Paper "[papers/www2022.pdf, On Designing a Two-stage Auction for Online Advertising]" has been accepted to ACM WWW in Economics, Monetization, and Online Markets track, 2022. Congratulations to Yiqing!
+#- \[2022.01\] Paper "[papers/www2022.pdf On Designing a Two-stage Auction for Online Advertising]" has been accepted to ACM WWW in Economics, Monetization, and Online Markets track, 2022. Congratulations to Yiqing!
 #- \[2021.12\] Paper "[papers/infocom22.pdf Online Data Valuation and Pricing for Machine Learning Tasks in Mobile Health]" accepted to IEEE INFOCOM 2022. Congratulations to Anran!
 #- \[2021.9\] Paper "[papers/wsdm22.pdf A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising]" accepted to ACM WSDM 2022. Congratulations to Chao!
 #- \[2021.9\] Paper "[papers/tmc21.pdf Capitalize Your Data: Optimal Selling Mechanisms for IoT Data Exchange]" accepted to IEEE TMC. Congratulations to Qinya!
-#- \[2021.6\] Paper "[https://arxiv.org/pdf/2108.10623.pdf, Data-Free Evaluation of User Contributions in Federated Learning]" accepted to IEEE WiOpt 2021. Congratulations to Hongtao!
-#- \[2021.05\] Paper "[papers/kdd2021-a.pdf Neural  Auction:  End-to-End Learning of Auction Mechanisms for E-Commerce Advertising]" accepted to ACM SIGKDD 2021. Congratulations to Xiangyu!
-#- \[2021.05\]Paper "[papers/kdd2021-b.pdf We Know What You Want: An Advertising Strategy Recommender System for Online Advertising]" accepted to ACM SIGKDD 2021. Congratulations to Liyi!
+#- \[2021.6\] Paper "[papers/wiopt21.pdf Data-Free Evaluation of User Contributions in Federated Learning]" accepted to IEEE WiOpt 2021. Congratulations to Hongtao!
+#- \[2021.05\] Paper "[papers/kdd2021-a.pdf Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising]" accepted to ACM SIGKDD 2021. Congratulations to Xiangyu!
+#- \[2021.05\] Paper "[papers/kdd2021-b.pdf We Know What You Want: An Advertising Strategy Recommender System for Online Advertising]" accepted to ACM SIGKDD 2021. Congratulations to Liyi!
 #- \[2021.04\] I will serve as a TPC member for IEEE INFOCOM 2022.
 #- \[2021.02\] Paper "[papers/JSAC21.pdf Strategy-Proof Online Mechanisms for Weighted AoI Minimization in Edge Computing]" accepted to IEEE JSAC - Special Issue on Age of Information in Real-time Systems and Networks. Congratulations to Hongtao!.
 #- \[2020.11\] Paper “[papers/AAAI21.pdf Toward Understanding the Influence of Individual Clients in Federated Learning]” accepted to AAAI 2021. Congratulations to Yihao!
@@ -104,7 +105,7 @@ Continual Learning for Embedded AI]" and "[\ A Creator-Aware Recommendation Syst
 ~~~
 
 #- \[2020.01\] Paper “[papers/aaai20.pdf Mechanism Design  with Predicted Task Revenue for Bike Sharing Systems]” accepted to AAAI 2020. Congratulations to Hongtao!
-# \[2019.12\] Paper "[https://drive.google.com/open?id=18esA_BjxMvJbEkIvbdBruU1Ji5Am0KxJ Optimal Search Segmentation Mechanisms for Online Platform Markets]" accepted to WINE 2019.
+# \[2019.12\] Paper "[papers/wine19.pdf Optimal Search Segmentation Mechanisms for Online Platform Markets]" accepted to WINE 2019.
 
 == Research Interests
 - Agentic AI
